@@ -10,7 +10,7 @@
 <div align="center"> <img src="pics/49d2adc1-b28a-44bf-babb-d44993f4a2e3.gif" width="250px"> </div><br>
 
 
-```java
+```
 public boolean duplicate(int[] nums, int length, int[] duplication) {
     if (nums == null || length <= 0)
         return false;
